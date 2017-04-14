@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['r_5ftable_5ftype',['R_TABLE_TYPE',['../amr_8h.html#a4349031eae6014064fa873ac6fa37942',1,'amr.h']]],
+  ['random_5fseed_5fptr_5ft',['random_seed_ptr_t',['../tests_2random__seed_8c.html#aaef0f0cbfe2c3704c23b20c4d61c47a9',1,'random_seed.c']]],
+  ['refiid',['REFIID',['../basicDataTypeConversions_8h.html#a1c118990014cb039c8ba0e6f7f5e8061',1,'basicDataTypeConversions.h']]],
+  ['resample_5fflush_5ffunc',['resample_flush_func',['../swresample__internal_8h.html#a200a2d53c52ccb7850409eb549c2b873',1,'swresample_internal.h']]],
+  ['resample_5ffree_5ffunc',['resample_free_func',['../swresample__internal_8h.html#a7ad799bc1d5c98a602d9d050124c556f',1,'swresample_internal.h']]],
+  ['residual',['residual',['../dirac__vlc_8h.html#adafc9889ebffacbfe26f3daa029bb272',1,'dirac_vlc.h']]],
+  ['rgb2yuv_5ffn',['rgb2yuv_fn',['../colorspacedsp_8h.html#a9afba74ce78dc96d0c457cdf3c78239a',1,'colorspacedsp.h']]],
+  ['rgb2yuv_5ffsb_5ffn',['rgb2yuv_fsb_fn',['../colorspacedsp_8h.html#aa39c7a6723668748f59f727ece3fbc9c',1,'colorspacedsp.h']]],
+  ['rgbconvfn',['rgbConvFn',['../swscale__unscaled_8c.html#ac8100790dcee7e1a4e7f6b0a4d323ac2',1,'swscale_unscaled.c']]],
+  ['rv34_5fidct_5fadd_5ffunc',['rv34_idct_add_func',['../rv34dsp_8h.html#a41f959b78a6f6508f98dd1f7554bbaa1',1,'rv34dsp.h']]],
+  ['rv34_5fidct_5fdc_5fadd_5ffunc',['rv34_idct_dc_add_func',['../rv34dsp_8h.html#a6eec2123d7b5ec85cbb6d86be1496e9f',1,'rv34dsp.h']]],
+  ['rv34_5finv_5ftransform_5ffunc',['rv34_inv_transform_func',['../rv34dsp_8h.html#a4c6bd47978a21918a512a002cb3268a5',1,'rv34dsp.h']]],
+  ['rv40_5floop_5ffilter_5fstrength_5ffunc',['rv40_loop_filter_strength_func',['../rv34dsp_8h.html#a7c4e9389b6fabb299879d6f7cb0c6fc3',1,'rv34dsp.h']]],
+  ['rv40_5fstrong_5floop_5ffilter_5ffunc',['rv40_strong_loop_filter_func',['../rv34dsp_8h.html#a2ad5c5217f7b316ff8e2d22d72c7cf4c',1,'rv34dsp.h']]],
+  ['rv40_5fweak_5floop_5ffilter_5ffunc',['rv40_weak_loop_filter_func',['../rv34dsp_8h.html#a33667749edba6005040b8ce701001cc3',1,'rv34dsp.h']]],
+  ['rv40_5fweight_5ffunc',['rv40_weight_func',['../rv34dsp_8h.html#af4fa0ee12c20aba2b6e25c2343fb0958',1,'rv34dsp.h']]]
+];

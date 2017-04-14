@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['libavmeminputpin',['libAVMemInputPin',['../dshow__capture_8h.html#a22671f8098aae7578c03980b99bead72',1,'dshow_capture.h']]],
+  ['libwebpcontext',['LibWebPContext',['../libwebpenc_8c.html#a151b33e3d4f5b489b9a575f404ae9bef',1,'libwebpenc.c']]],
+  ['long',['LONG',['../basicDataTypeConversions_8h.html#a27ec6163192f1e1e72d87421379ea3d4',1,'basicDataTypeConversions.h']]],
+  ['long_5fptr',['LONG_PTR',['../basicDataTypeConversions_8h.html#aa902232a60aa9d8b0504c0e01eef71b3',1,'basicDataTypeConversions.h']]],
+  ['lpbyte',['LPBYTE',['../basicDataTypeConversions_8h.html#ac2d3fb16b5b34c1e6ab80014309020eb',1,'basicDataTypeConversions.h']]],
+  ['lpc_5ftype',['LPC_TYPE',['../lpc_8h.html#abfb864413dfc99080fcef7d9270cb2e2',1,'lpc.h']]],
+  ['lpclsid',['LPCLSID',['../basicDataTypeConversions_8h.html#a10c5deeb2a4a2563a5e151dbfc71102b',1,'basicDataTypeConversions.h']]],
+  ['lpcolestr',['LPCOLESTR',['../basicDataTypeConversions_8h.html#acacf0382d89d09f4e0dc282638cc7006',1,'basicDataTypeConversions.h']]],
+  ['lpcstr',['LPCSTR',['../basicDataTypeConversions_8h.html#adbea528b1294c9a1dfda3dfa33ff1472',1,'basicDataTypeConversions.h']]],
+  ['lpctstr',['LPCTSTR',['../basicDataTypeConversions_8h.html#ae36c9e335aceeb7c0f39fd219f474155',1,'basicDataTypeConversions.h']]],
+  ['lpdword',['LPDWORD',['../basicDataTypeConversions_8h.html#a143be739596851314f3c386bd6f752f9',1,'basicDataTypeConversions.h']]],
+  ['lphacmdriver',['LPHACMDRIVER',['../basicDataTypeConversions_8h.html#aa9c9821299590b5b933a193af8144ebd',1,'basicDataTypeConversions.h']]],
+  ['lphacmstream',['LPHACMSTREAM',['../basicDataTypeConversions_8h.html#a8dbf4f3a411b605068190b819e413ed3',1,'basicDataTypeConversions.h']]],
+  ['lpolestr',['LPOLESTR',['../basicDataTypeConversions_8h.html#a1e23075b4dc360c1d1957194dd764daa',1,'basicDataTypeConversions.h']]],
+  ['lpstr',['LPSTR',['../basicDataTypeConversions_8h.html#a140cf415e90c02039ff733cd93e4affd',1,'basicDataTypeConversions.h']]],
+  ['lptstr',['LPTSTR',['../basicDataTypeConversions_8h.html#a267287b62b4135b51b29558bf24a2f51',1,'basicDataTypeConversions.h']]],
+  ['lpvoid',['LPVOID',['../basicDataTypeConversions_8h.html#ab064840df4ab5a8cf90ddb963f94de34',1,'basicDataTypeConversions.h']]],
+  ['lresult',['LRESULT',['../basicDataTypeConversions_8h.html#a2cc1cd06ba7afa2b34df61b195521097',1,'basicDataTypeConversions.h']]],
+  ['lzwstate',['LZWState',['../lzw_8h.html#a5a406ffbc661bb549fc135f573e088b9',1,'lzw.h']]]
+];
